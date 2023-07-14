@@ -8,9 +8,9 @@
   
 - e-mail: hyspoe@gmail.com
 
--  github: https://github.com/hyseop
+- github: https://github.com/hyseop
   
-- blog: https://hysome.tistory.com
+- blog: https://hyseop.tistory.com
   
 
 </br>
