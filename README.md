@@ -3,9 +3,10 @@
 </br>
 
 ### ✔️ Contact
-- e-mail: hyspoe@gmail.com
 
 - phone: 010-9609-0360
+  
+- e-mail: hyspoe@gmail.com
   
 - blog: https://hysome.tistory.com
   
