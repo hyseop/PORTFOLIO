@@ -7,10 +7,10 @@
 - phone: 010-9609-0360
   
 - e-mail: hyspoe@gmail.com
+
+-  github: https://github.com/hyseop
   
 - blog: https://hysome.tistory.com
-  
-- github: https://github.com/hyseop
   
 
 </br>
