@@ -11,13 +11,13 @@
 
 ### ✔️ Contact
 
-- phone: 010-9609-0360
+- 010-9609-0360
   
-- e-mail: hyspoe@gmail.com
+- hyspoe@gmail.com
 
-- blog: https://hyseop.tistory.com
+- https://hyseop.tistory.com
 
-- github: https://github.com/hyseop
+- https://github.com/hyseop
 
   
 </br>
