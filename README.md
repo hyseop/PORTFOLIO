@@ -15,11 +15,11 @@
   
 - e-mail: hyspoe@gmail.com
 
-- github: https://github.com/hyseop
-  
 - blog: https://hyseop.tistory.com
-  
 
+- github: https://github.com/hyseop
+
+  
 </br>
 
 ### ✔️ Projects
