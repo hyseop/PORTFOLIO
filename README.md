@@ -45,12 +45,12 @@
    </br>
 
 - NOWNESS (팀)
-   > 장소 현장 정보(혼잡도, 날씨 주차 등) 실시간 공유 플랫폼  
+   > 실시간 현장 정보 공유 플랫폼
    > 팀 프로젝트 (파이널, 국비 과정)  
    > 팀장 (메인 화면 구성)  
    > 개발기간: 2023~  
-   > 기술스택: Java 17 / Spring Boot / Gradle / MySQL / MyBatis / Thymeleaf / BootStrap  
-   </br>
+   > 기술스택: Java 17 / Spring Boot / Gradle / MySQL / MyBatis / Thymeleaf / BootStrap
+   > 
    > [프로젝트 상세](https://github.com/hyseop)
    </br>
    
@@ -60,6 +60,6 @@
    > 팀원 (로그인 및 회원가입)  
    > 개발기간: 프론트: 백:  
    > 기술스택: Java 11 / Spring / Maven / MySQL / MyBatis
-   </br>
-   > [프로젝트 상세](https://)
+   > 
+   > [프로젝트 상세](https://github.com/hyseop)
    </br>
