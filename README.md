@@ -38,9 +38,28 @@
 </br>
 
 ### ✔️ Projects
-- 개인
+- . (개인)
+   > .
+   >
+   > 
+   </br>
 
-- NOWNESS
-
-- SCENEMA
-
+- NOWNESS (팀)
+   > 장소 현장 정보(혼잡도, 날씨 주차 등) 실시간 공유 플랫폼  
+   > 팀 프로젝트 (파이널, 국비 과정)  
+   > 팀장 (메인 화면 구성)  
+   > 개발기간: 2023~  
+   > 기술스택: Java 17 / Spring Boot / Gradle / MySQL / MyBatis / Thymeleaf / BootStrap  
+   </br>
+   > [프로젝트 상세](https://github.com/hyseop)
+   </br>
+   
+- SCENEMA (팀)
+   > 영화 커뮤니티  
+   > 팀 프로젝트 (미니, 실습용, 국비 과정)  
+   > 팀원 (로그인 및 회원가입)  
+   > 개발기간: 프론트: 백:  
+   > 기술스택: Java 11 / Spring / Maven / MySQL / MyBatis
+   </br>
+   > [프로젝트 상세](https://)
+   </br>
