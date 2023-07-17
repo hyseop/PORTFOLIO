@@ -51,7 +51,7 @@
    > 개발기간: 2023~  
    > 기술스택: Java 17 / Spring Boot / Gradle / MySQL / MyBatis / Thymeleaf / BootStrap
    > 
-   > [프로젝트 상세](https://github.com/hyseop)
+   > [프로젝트 상세](https://github.com/hyseop/NOWNESS)
    </br>
    
 - SCENEMA (팀)
@@ -61,5 +61,5 @@
    > 개발기간: 프론트: 백:  
    > 기술스택: Java 11 / Spring / Maven / MySQL / MyBatis
    > 
-   > [프로젝트 상세](https://github.com/hyseop)
+   > [프로젝트 상세](https://github.com/hyseop/SCENEMA)
    </br>
