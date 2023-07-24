@@ -59,7 +59,7 @@
    > 팀 프로젝트 (미니, 실습용, 국비 과정)  
    > 팀원 (로그인 및 회원가입)  
    > 개발기간: 23.05.04 ~ 23.05.09(프론트) & 23.05.31 ~ 23.06.05(백)  
-   > 기술스택: Java 11 / Spring / Maven / MySQL / MyBatis
+   > 기술스택: Java 11 / Spring / Maven / MySQL / MyBatis / JSP
    > 
    > [프로젝트 상세](https://github.com/hyseop/SCENEMA)
    </br>
