@@ -7,8 +7,8 @@
 >
 >> OJT, 퍼포마스(주) (23/08/17 ~ 09/01) </br>
 >
-> (주)소프트위즈 (2024/01/08 ~ )
-
+**> (주)소프트위즈 (2024/01/08 ~ )
+**
 
 </br>
 
@@ -41,14 +41,14 @@
 
 ## ✔️ Projects
 
-> ### *F* D*** Administrator Client</br>
+> ### *FXAC</br>
 > </br>
 > 
 > 트레이딩 플랫폼 시세 제공 및 마크업 등과 관련된 프로젝트의 'Administrator Client'
 > 
 > 기술스택: C++ MFC
 > 
-> [작업물](https://github.com/hyseop/)
+> [작업물](https://github.com/hyseop/FXAC)
 </br>
 
 > ### *PFMS</br>
