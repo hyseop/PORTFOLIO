@@ -7,8 +7,9 @@
 >
 >> OJT, 퍼포마스(주) (23/08/17 ~ 09/01) </br>
 >
-**> (주)소프트위즈 (2024/01/08 ~ )
-**
+> </br>
+>
+> **(주)소프트위즈 (2024/01/08 ~ )**
 
 </br>
 
@@ -42,59 +43,55 @@
 ## ✔️ Projects
 
 > ### *FXAC</br>
-> </br>
-> 
-> 트레이딩 플랫폼 시세 제공 및 마크업 등과 관련된 프로젝트의 'Administrator Client'
-> 
-> 기술스택: C++ MFC
-> 
-> [작업물](https://github.com/hyseop/FXAC)
+>
+>> 트레이딩 플랫폼 시세 제공 및 마크업 등과 관련된 프로젝트의 'Administrator Client'
+>>
+>> 기술스택: C++ MFC
+>> 
+>> [작업 내역](https://github.com/hyseop/FXAC)
 </br>
 
 > ### *PFMS</br>
-> </br>
 > 
-> 페르소나 생성 API
->   
-> 국비 OJT 현장 실습
-> 
-> 백엔드 서버 담당
-> 
-> 개발기간: 23.08.21 ~ 23.08.31
-> 
-> 기술스택: Node.js
-> 
-> [프로젝트 상세](https://github.com/hyseop/PFMS)
+>> 페르소나 생성 API
+>>   
+>> 국비 OJT 현장 실습
+>> 
+>> 백엔드 서버 담당
+>> 
+>> 개발기간: 23.08.21 ~ 23.08.31
+>> 
+>> 기술스택: Node.js
+>> 
+>> [프로젝트 상세](https://github.com/hyseop/PFMS)
 </br>
 
 > ### *NOWNESS</br>
-> </br>
 > 
-> 실시간 현장 정보 공유 플랫폼
->   
-> 팀 프로젝트 (파이널, 국비 과정)
-> 
-> 팀장 (메인 화면 구성)
-> 
-> 개발기간: 23.06.26 ~ 23.07.21
-> 
-> 기술스택: Java 17 / Spring Boot / Gradle / MySQL / MyBatis / Thymeleaf / BootStrap
-> 
-> [프로젝트 상세](https://github.com/hyseop/NOWNESS)
+>> 실시간 현장 정보 공유 플랫폼
+>>   
+>> 팀 프로젝트 (파이널, 국비 과정)
+>> 
+>> 팀장 (메인 화면 구성)
+>> 
+>> 개발기간: 23.06.26 ~ 23.07.21
+>> 
+>> 기술스택: Java 17 / Spring Boot / Gradle / MySQL / MyBatis / Thymeleaf / BootStrap
+>> 
+>> [프로젝트 상세](https://github.com/hyseop/NOWNESS)
 </br>
    
 > ### *SCENEMA</br>
-> </br>
 > 
-> 영화 커뮤니티
->   
-> 팀 프로젝트 (미니, 실습용, 국비 과정)
-> 
-> 팀원 (로그인 및 회원가입)
-> 
-> 개발기간: 23.05.04 ~ 23.05.09(프론트) & 23.05.31 ~ 23.06.05(백)
-> 
-> 기술스택: Java 11 / Spring / Maven / MySQL / MyBatis / JSP
-> 
-> [프로젝트 상세](https://github.com/hyseop/SCENEMA)
+>> 영화 커뮤니티
+>>   
+>> 팀 프로젝트 (미니, 실습용, 국비 과정)
+>> 
+>> 팀원 (로그인 및 회원가입)
+>> 
+>> 개발기간: 23.05.04 ~ 23.05.09(프론트) & 23.05.31 ~ 23.06.05(백)
+>> 
+>> 기술스택: Java 11 / Spring / Maven / MySQL / MyBatis / JSP
+>> 
+>> [프로젝트 상세](https://github.com/hyseop/SCENEMA)
 </br>
