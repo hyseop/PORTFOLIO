@@ -36,12 +36,20 @@
 > hyspoe@gmail.com
 >
 > https://github.com/hyseop
->
-> https://hyseop.tistory.com
   
 </br>
 
 ## ✔️ Projects
+
+> ### *F* D*** Administrator Client</br>
+> </br>
+> 
+> 트레이딩 플랫폼 시세 제공 및 마크업 등과 관련된 프로젝트의 'Administrator Client'
+> 
+> 기술스택: C++ MFC
+> 
+> [작업물](https://github.com/hyseop/)
+</br>
 
 > ### *PFMS</br>
 > </br>
