@@ -46,9 +46,11 @@
 >
 >> 트레이딩 플랫폼 시세 제공 및 마크업 등과 관련된 프로젝트의 'Administrator Client'
 >>
+>> 일괄 담당
+>> 
 >> 기술스택: C++ MFC
 >> 
->> [작업 내역](https://github.com/hyseop/FXAC)
+>> [작업 내역 바로가기](https://github.com/hyseop/FXAC)
 </br>
 
 > ### *PFMS</br>
@@ -63,7 +65,7 @@
 >> 
 >> 기술스택: Node.js
 >> 
->> [프로젝트 상세](https://github.com/hyseop/PFMS)
+>> [프로젝트 상세 바로가기](https://github.com/hyseop/PFMS)
 </br>
 
 > ### *NOWNESS</br>
@@ -78,7 +80,7 @@
 >> 
 >> 기술스택: Java 17 / Spring Boot / Gradle / MySQL / MyBatis / Thymeleaf / BootStrap
 >> 
->> [프로젝트 상세](https://github.com/hyseop/NOWNESS)
+>> [프로젝트 상세 바로가기](https://github.com/hyseop/NOWNESS)
 </br>
    
 > ### *SCENEMA</br>
@@ -93,5 +95,5 @@
 >> 
 >> 기술스택: Java 11 / Spring / Maven / MySQL / MyBatis / JSP
 >> 
->> [프로젝트 상세](https://github.com/hyseop/SCENEMA)
+>> [프로젝트 상세 바로가기](https://github.com/hyseop/SCENEMA)
 </br>
