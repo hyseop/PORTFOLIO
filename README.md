@@ -48,18 +48,18 @@
 >>
 >> 어드민 클라이언트 담당
 >> 
->> C++ MFC
+>> C++ / MFC
 >> 
->> [작업 내역 바로가기](https://github.com/hyseop/FxDxxxAdministratorClient)
+>> [UI/UX GIF 바로가기](https://github.com/hyseop/FxDxxxAdministratorClient)
 </br>
 
 > ### *Crypto Client</br>
 >
->> x
+>> 크립토(코인) 호가 수신 테스트
 >>
->> x
+>> 웹소켓 라이브러리를 활용한 거래소 API 연동
 >> 
->> C++ MFC, websocketpp library, boost/beast library
+>> C++ / MFC / WebSocket++ / Boost.Beast
 >> 
 >> [프로젝트 상세 바로가기](https://github.com/hyseop/CryptoClient)
 </br>
