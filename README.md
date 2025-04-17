@@ -42,15 +42,26 @@
 
 ## ✔️ Projects
 
-> ### *FXAC</br>
+> ### *Fx Dxxx Administrator Client</br>
 >
 >> 트레이딩 플랫폼 시세 제공 관련 프로젝트
 >>
 >> 어드민 클라이언트 담당
 >> 
->> 기술스택: C++ MFC
+>> C++ MFC
 >> 
->> [작업 내역 바로가기](https://github.com/hyseop/FXAC)
+>> [작업 내역 바로가기](https://github.com/hyseop/FxDxxxAdministratorClient)
+</br>
+
+> ### *Crypto Client</br>
+>
+>> x
+>>
+>> x
+>> 
+>> C++ MFC, websocketpp library, boost/beast library
+>> 
+>> [프로젝트 상세 바로가기](https://github.com/hyseop/CryptoClient)
 </br>
 
 > ### *PFMS</br>
@@ -63,7 +74,7 @@
 >> 
 >> 개발기간: 23.08.21 ~ 23.08.31
 >> 
->> 기술스택: Node.js
+>> Node.js
 >> 
 >> [프로젝트 상세 바로가기](https://github.com/hyseop/PFMS)
 </br>
@@ -78,7 +89,7 @@
 >> 
 >> 개발기간: 23.06.26 ~ 23.07.21
 >> 
->> 기술스택: Java 17 / Spring Boot / Gradle / MySQL / MyBatis / Thymeleaf / BootStrap
+>> Java 17 / Spring Boot / Gradle / MySQL / MyBatis / Thymeleaf / BootStrap
 >> 
 >> [프로젝트 상세 바로가기](https://github.com/hyseop/NOWNESS)
 </br>
@@ -93,7 +104,7 @@
 >> 
 >> 개발기간: 23.05.04 ~ 23.05.09(프론트) & 23.05.31 ~ 23.06.05(백)
 >> 
->> 기술스택: Java 11 / Spring / Maven / MySQL / MyBatis / JSP
+>> Java 11 / Spring / Maven / MySQL / MyBatis / JSP
 >> 
 >> [프로젝트 상세 바로가기](https://github.com/hyseop/SCENEMA)
 </br>
